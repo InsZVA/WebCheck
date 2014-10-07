@@ -87,6 +87,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "Aspicube网络验证系统Demo";
             this.ResumeLayout(false);
